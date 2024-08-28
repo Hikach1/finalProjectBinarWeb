@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "342A11F850ED5150D451FBE13FD2D1FD",
+  "keywordClasses": [
+    {
+      "name": "testRandom",
+      "keywordMethods": [
+        {
+          "name": "randomString",
+          "parameters": [
+            {
+              "name": "length",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
