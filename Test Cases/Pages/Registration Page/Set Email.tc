@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Set Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6508a9f-ad19-4219-b388-2b0f6e108769</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ca13851d-d12d-4944-97af-52cae2acb0ef</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ca13851d-d12d-4944-97af-52cae2acb0ef</id>
+      <masked>false</masked>
+      <name>emailReg</name>
+   </variable>
+</TestCaseEntity>

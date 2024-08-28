@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "2FAF1CEF3A579062B210137B10BE0373",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.registerWeb",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}
