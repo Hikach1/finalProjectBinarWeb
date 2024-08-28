@@ -73,34 +73,96 @@ class loginWeb {
 
 		WebUI.callTestCase(findTestCase('Pages/Login Page/Set Password Login'), [('passwordLog') : passwordLog], FailureHandling.STOP_ON_FAILURE)
 	}
+	
+	@And("User input invalid Email {string}")
+	public void user_input_invalid_Email(String emailLog) {
 
+		WebUI.callTestCase(findTestCase('Pages/Login Page/Set Email Login'), [('emailLog') : emailLog], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@And("User input invalid Password {string}")
+	public void user_input_invalid_Password(String passwordLog) {
+
+		WebUI.callTestCase(findTestCase('Pages/Login Page/Set Password Login'), [('passwordLog') : passwordLog], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@And("User input correct Email {string}")
+	public void user_input_correct_Email(String emailLog) {
+
+		WebUI.callTestCase(findTestCase('Pages/Login Page/Set Email Login'), [('emailLog') : emailLog], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@And("User input correct Password {string}")
+	public void user_input_correct_Password(String passwordLog) {
+
+		WebUI.callTestCase(findTestCase('Pages/Login Page/Set Password Login'), [('passwordLog') : passwordLog], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@And("User input incorrect Email {string}")
+	public void user_input_incorrect_Email(String emailLog) {
+
+		WebUI.callTestCase(findTestCase('Pages/Login Page/Set Email Login'), [('emailLog') : emailLog], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@And("User input incorrect Password {string}")
+	public void user_input_incorrect_Password(String passwordLog) {
+
+		WebUI.callTestCase(findTestCase('Pages/Login Page/Set Password Login'), [('passwordLog') : passwordLog], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@And("User doesnt fill in the Email field {string}")
+	public void user_doesnt_fill_in_the_Email_field(String emailLog) {
+
+		WebUI.callTestCase(findTestCase('Pages/Login Page/Set Email Login'), [('emailLog') : emailLog], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@And("User doesnt fill in the Password field {string}")
+	public void user_doesnt_fill_in_the_Password_field(String passwordLog) {
+
+		WebUI.callTestCase(findTestCase('Pages/Login Page/Set Password Login'), [('passwordLog') : passwordLog], FailureHandling.STOP_ON_FAILURE)
+	}
+	
 	@And("User click button Masuk")
 	public void user_click_button_Masuk() {
 
 		WebUI.callTestCase(findTestCase('Pages/Login Page/Click Button Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
-	@Then("User can login after input correct credential")
-	public void user_can_login_after_input_correct_credential() {
+	@Then("User can login after input valid credential")
+	public void user_can_login_after_input_valid_credential() {
 	}
 
 	@And("User navigate to Homepage")
 	public void user_navigate_to_Homepage() {
 
 		WebUI.callTestCase(findTestCase('Pages/Homepage/Verify Content Homepage'), [:], FailureHandling.STOP_ON_FAILURE)
-		
+	}
+
+	@Then("User cannot login after input invalid credential")
+	public void user_cannot_login_after_input_invalid_credential() {
+
+	}
+	
+	@Then("User cannot login after input incorrect email and password")
+	public void user_cannot_login_after_incorrect_email_and_password() {
+
 	}
 	
 	@And("User stay in Loginpage")
 	public void user_stay_in_Loginpage() {
-	
+
 		WebUI.callTestCase(findTestCase('Pages/Login Page/Verify Content Login Page'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@And("Verify warning message Invalid Email or password")
+	public void verify_warning_message_Invalid_Email_or_password() {
+		
+		WebUI.callTestCase(findTestCase('Pages/Login Page/Error Messages'), [:], FailureHandling.STOP_ON_FAILURE)
 		
 	}
-	
+
 	@And("User close browser")
 	public void user_close_browser() {
 		WebUI.closeBrowser();
 	}
-	
 }
