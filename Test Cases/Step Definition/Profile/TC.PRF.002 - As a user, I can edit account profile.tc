@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.002 - As a user, I can edit account profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c60d812-065f-4c7c-9a16-f0e9054caace</testCaseGuid>
+</TestCaseEntity>

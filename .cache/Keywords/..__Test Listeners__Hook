@@ -1,8 +1,8 @@
 {
-  "keywordFileContentHash": "BB5B0B27B7E8D0982A83174993BEE6BB",
+  "keywordFileContentHash": "065689D7DD89CAA68BC1743D3600A372",
   "keywordClasses": [
     {
-      "name": "WebHook",
+      "name": "Hook",
       "keywordMethods": []
     }
   ],

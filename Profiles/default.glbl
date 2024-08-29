@@ -24,4 +24,9 @@
       <initValue>'123456'</initValue>
       <name>passwordRegis</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://secondhand.binaracademy.org/'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
