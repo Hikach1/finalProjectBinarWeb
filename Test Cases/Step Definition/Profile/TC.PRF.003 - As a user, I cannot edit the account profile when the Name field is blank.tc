@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.003 - As a user, I cannot edit the account profile when the Name field is blank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ea3c62c-5828-4fcf-b917-0b1bc2666417</testCaseGuid>
+</TestCaseEntity>
