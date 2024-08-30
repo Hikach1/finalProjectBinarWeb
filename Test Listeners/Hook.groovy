@@ -23,15 +23,15 @@ import com.kms.katalon.core.context.TestCaseContext
 import com.kms.katalon.core.context.TestSuiteContext
 
 import com.kms.katalon.core.util.KeywordUtil
-import com.kms.katalon.core.cucumber.keyword.internal.CucumberGlueGenerator
+//import com.kms.katalon.core.cucumber.keyword.internal.CucumberGlueGenerator
 
 
 class Hook {
 	
-	@BeforeTestCase
-	def beforeTestCases(TestCaseContext context) {
-	CucumberGlueGenerator.addDefaultPackages();
-	}
+//	@BeforeTestCase
+//	def beforeTestCases(TestCaseContext context) {
+//	CucumberGlueGenerator.addDefaultPackages();
+//	}
 	
 	
 	

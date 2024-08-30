@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Offer Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f04cc2be-291b-437c-9550-d7f7a2aa9dd0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c456b996-e40f-4a4b-9af7-015e24f63912</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c456b996-e40f-4a4b-9af7-015e24f63912</id>
+      <masked>false</masked>
+      <name>offerProduct</name>
+   </variable>
+</TestCaseEntity>
