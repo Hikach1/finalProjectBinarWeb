@@ -17,24 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Step Definition/Login/User Login - Success_'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Click Plus Jual'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Verify Content Add New Product Page'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Nama Produk'), [('namaProduk') : 'bla_'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [('namaProduk') : 'bla_'], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Harga Produk'), [('hargaProduk') : 'abcd'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [('hargaProduk') : 'abcd'], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Kategori Produk'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Deskripsi Produk'), [('deskripsiProduk') : 'bla_bla'], 
+WebUI.callTestCase(findTestCase('null'), [('deskripsiProduk') : 'bla_bla'], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Photo Produk'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Click Terbitkan'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Verify Error'), [('expected') : 'Price can\'t be blank'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [('expected') : 'Price can\'t be blank'], FailureHandling.STOP_ON_FAILURE)
 

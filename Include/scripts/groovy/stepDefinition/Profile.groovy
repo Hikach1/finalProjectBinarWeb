@@ -115,4 +115,24 @@ public class Profile {
 	public void user_leaves_name_field_blank() {
 		WebUI.callTestCase(findTestCase('SecondHand/Profile/Delete Nama'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
+
+	@Then("User cant complete account profile")
+	public void user_cant_complete_account_profile() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Verify Content Profile Page'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User input photo profile")
+	public void user_input_photo_profile() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Input Photo Profile'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User empty address")
+	public void user_empty_address() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Delete Alamat'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User empty number handphone")
+	public void user_empty_number_handphone() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Delete No Handphone'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
 }

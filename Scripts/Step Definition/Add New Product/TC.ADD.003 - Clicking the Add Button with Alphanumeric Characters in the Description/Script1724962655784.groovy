@@ -17,23 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Step Definition/Login/User Login - Success_'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Click Plus Jual'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Verify Content Add New Product Page'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Nama Produk'), [('namaProduk') : 'bla_'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [('namaProduk') : 'bla_'], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Harga Produk'), [('hargaProduk') : '40000'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [('hargaProduk') : '40000'], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Kategori Produk'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Deskripsi Produk'), [('deskripsiProduk') : 'blabla123'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [('deskripsiProduk') : 'blabla123'], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Photo Produk'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Click Terbitkan'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Verify Content After Publish Product Page'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
