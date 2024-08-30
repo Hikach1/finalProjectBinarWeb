@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.007 - As a user, I can complete account profile when Profile Photo is not uploaded</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73e17f95-b6a7-4b09-98e3-1a5c05392345</testCaseGuid>
+</TestCaseEntity>

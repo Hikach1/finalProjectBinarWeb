@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.004 - As a user, I cant complete account profile when the Kota field not choose</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>882dc095-b0be-4f5c-bdf5-5f0c54877e6c</testCaseGuid>
+</TestCaseEntity>
