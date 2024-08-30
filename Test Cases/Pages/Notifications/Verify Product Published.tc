@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Product Published</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ed082c8-5316-4136-a6de-e50fbd0e3633</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4da6b742-57c0-42a1-87a6-9f4310f0be1c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4da6b742-57c0-42a1-87a6-9f4310f0be1c</id>
+      <masked>false</masked>
+      <name>productDiterbitkan</name>
+   </variable>
+</TestCaseEntity>
