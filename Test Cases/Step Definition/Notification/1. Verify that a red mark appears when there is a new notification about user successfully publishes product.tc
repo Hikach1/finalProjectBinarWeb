@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Verify that a red mark appears when there is a new notification about user successfully publishes product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b50f26e5-153c-4595-8ed8-87570ef20fe8</testCaseGuid>
+</TestCaseEntity>
