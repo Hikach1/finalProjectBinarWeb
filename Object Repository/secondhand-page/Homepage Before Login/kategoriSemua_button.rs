@@ -3,7 +3,7 @@
    <description></description>
    <name>kategoriSemua_button</name>
    <tag></tag>
-   <elementGuidId>5b6b5071-1a77-4506-8ee6-36376c7b3acd</elementGuidId>
+   <elementGuidId>cacd6629-35d1-48f4-b580-a9b5b906679b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-alt-primary col rounded-4 py-2 px-4 d-inline-flex align-items-center active</value>
-      <webElementGuid>2f7dcdde-812f-4c4d-9793-a3250430e60b</webElementGuid>
+      <webElementGuid>50d42193-cc02-413d-8f3e-a368e71fb241</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

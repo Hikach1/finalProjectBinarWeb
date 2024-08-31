@@ -3,7 +3,7 @@
    <description></description>
    <name>simpan_button</name>
    <tag></tag>
-   <elementGuidId>076d2134-d78e-429d-8967-0a8566c918ed</elementGuidId>
+   <elementGuidId>56ff15f0-98f1-4020-8b78-ac8c80c1546b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>c53b5b8b-175f-4f29-b27c-d79f50a4dae7</webElementGuid>
+      <webElementGuid>41655563-a3c5-49ca-993a-752cd96ecff9</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

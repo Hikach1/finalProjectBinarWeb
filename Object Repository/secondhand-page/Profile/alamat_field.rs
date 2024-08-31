@@ -3,7 +3,7 @@
    <description></description>
    <name>alamat_field</name>
    <tag></tag>
-   <elementGuidId>5363e5f3-31e3-4fff-82bb-d8673ef9541a</elementGuidId>
+   <elementGuidId>30ce66fc-0c0b-43f2-b1ea-26401ef3f4fe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>user_address</value>
-      <webElementGuid>c280d049-df61-413a-bd0c-b7c497f9a02e</webElementGuid>
+      <webElementGuid>cb360b89-7e6c-4957-b32e-113aed6aa966</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

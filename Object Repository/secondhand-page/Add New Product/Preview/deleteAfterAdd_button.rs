@@ -3,7 +3,7 @@
    <description></description>
    <name>deleteAfterAdd_button</name>
    <tag></tag>
-   <elementGuidId>ef2d02b3-3d7d-421e-b82a-5c9ef6675974</elementGuidId>
+   <elementGuidId>33a888c6-c13e-4623-8242-95a3fa0cfdcc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-lg btn-danger fs-6 rounded-4 w-100 py-3 fw-bold mt-3</value>
-      <webElementGuid>2a62316c-6de4-4443-99f0-bb72aad12fcc</webElementGuid>
+      <webElementGuid>e464d513-d97c-4d3f-b966-23806e1115f2</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

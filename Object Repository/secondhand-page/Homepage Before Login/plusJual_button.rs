@@ -3,7 +3,7 @@
    <description></description>
    <name>plusJual_button</name>
    <tag></tag>
-   <elementGuidId>549f02ee-fd60-468d-aa69-a852c6c272c5</elementGuidId>
+   <elementGuidId>ee25f3db-6321-487e-936e-85e2d64cd702</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-lg rounded-4 d-inline-flex align-items-center justify-content-space-between px-5</value>
-      <webElementGuid>076d8ba9-31b6-44e8-9609-93aff9d6c1ff</webElementGuid>
+      <webElementGuid>34ae69de-390d-4058-a30f-3eb9bb377ae4</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

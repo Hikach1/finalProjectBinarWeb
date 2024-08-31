@@ -3,7 +3,7 @@
    <description></description>
    <name>namaSellCart_text</name>
    <tag></tag>
-   <elementGuidId>474cf5ea-77e2-4d44-bce4-ab3afffefcb3</elementGuidId>
+   <elementGuidId>c5bfd60f-942d-4d5b-934e-ba040384ac06</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>fs-5 fw-bold</value>
-      <webElementGuid>062ea6e7-b7be-474c-8820-0721c5ee80ab</webElementGuid>
+      <webElementGuid>e0a21399-8861-447c-945f-82b2f2cdee3c</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
