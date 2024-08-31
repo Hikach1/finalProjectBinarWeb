@@ -1,7 +1,7 @@
 
 @ProductOffer
-Feature: Add New Product
-  As a user, I can edit and add new product in SecondHand
+Feature: Product Offer
+  As a user, I can product offer in SecondHand
 
 
  @TC.PO.001
