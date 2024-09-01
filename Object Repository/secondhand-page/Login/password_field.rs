@@ -3,7 +3,7 @@
    <description></description>
    <name>password_field</name>
    <tag></tag>
-   <elementGuidId>71ed5f5a-c025-482e-a6f9-69bcfd02abae</elementGuidId>
+   <elementGuidId>6f83cfb0-e463-4bb6-9023-9ee2f64a0308</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>user_password</value>
-      <webElementGuid>2eba2fcc-a2d7-4ed8-acdc-f765d10af0b8</webElementGuid>
+      <webElementGuid>9e0cb974-5e99-4c45-b5e4-c23ca6dc3263</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

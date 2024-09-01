@@ -35,11 +35,19 @@ class Hook {
 	
 	
 	
+
 	def openBrowser() {
 //		WebUI.openBrowser('');
 //		WebUI.maximizeWindow();
 //		WebUI.navigateToUrl("https://secondhand.binaracademy.org/");
 	}
+
+//	def openBrowser() {
+//		WebUI.openBrowser('');
+//		WebUI.maximizeWindow();
+//		WebUI.navigateToUrl("https://secondhand.binaracademy.org/");
+//	}
+
 		
 	def closeBrowser() {
 		WebUI.closeBrowser();
@@ -61,13 +69,11 @@ class Hook {
 	
 //	@BeforeTestSuite
 //	def beforeTestSuite(TestSuiteContext testSuiteContext) {
-//		//KeywordUtil.logInfo('Test Suite: ' + testSuiteContext.getTestSuiteId())
 //		this.openBrowser()
 //	}
 //
 //	@AfterTestSuite
 //	def afterTestSuite(TestSuiteContext testSuiteContext) {
-//		//KeywordUtil.logInfo('Test Suite: ' + testSuiteContext.getTestSuiteId())
 //		this.closeBrowser()
 //	}
 	

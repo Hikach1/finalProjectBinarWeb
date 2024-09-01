@@ -3,7 +3,7 @@
    <description></description>
    <name>email_field</name>
    <tag></tag>
-   <elementGuidId>065813fe-dfe2-4929-82b1-846c7a793aeb</elementGuidId>
+   <elementGuidId>fa562a7b-bfcb-407b-bd3b-fa21a80d4cde</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>user_email</value>
-      <webElementGuid>bdd17ee2-5dee-4b66-a4bf-39cf81e17155</webElementGuid>
+      <webElementGuid>ee394a37-a360-4b17-8874-4fe9df406051</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

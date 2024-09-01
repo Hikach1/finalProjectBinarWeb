@@ -3,7 +3,7 @@
    <description></description>
    <name>iconProfilePopup_button</name>
    <tag></tag>
-   <elementGuidId>3ca9ce4b-2299-4d18-bc8a-d353cac979de</elementGuidId>
+   <elementGuidId>1a8dc732-129e-457f-b3c4-8331ed6021d3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>d-flex align-items-center justify-content center flex-column py-2</value>
-      <webElementGuid>0c91d7a1-1b44-4f29-af77-202c1b9a5767</webElementGuid>
+      <webElementGuid>af8762d5-7573-4184-bdb7-d5d9e436a58e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

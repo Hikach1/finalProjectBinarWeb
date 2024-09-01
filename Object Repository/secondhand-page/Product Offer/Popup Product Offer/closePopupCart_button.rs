@@ -3,7 +3,7 @@
    <description></description>
    <name>closePopupCart_button</name>
    <tag></tag>
-   <elementGuidId>56c6cf75-70ad-49e2-9a9e-f23f6dc009c1</elementGuidId>
+   <elementGuidId>26905bef-5aa3-476c-b990-e2cc05b144c8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-close</value>
-      <webElementGuid>46a40624-177a-4cdc-af07-e96f420ab6bd</webElementGuid>
+      <webElementGuid>c926a391-c2cf-414d-9098-65fad194f689</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

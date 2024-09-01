@@ -25,7 +25,11 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(
 features = "Include/features",
 glue = "stepDefinition",
+<<<<<<< HEAD
 tags = "@AddNewProduct, @ProductOffer, @Profile",
+=======
+tags = "@ProductOffer",
+>>>>>>> 7ac9a8bdbb1fe215905e3b621be13197dc1a126c
 monochrome = true,
 plugin = "html:Reports/Cucumber"
 )

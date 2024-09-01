@@ -3,7 +3,7 @@
    <description></description>
    <name>editAfterAdd_button</name>
    <tag></tag>
-   <elementGuidId>a1bd049c-e2a5-4e77-bcdd-857337901b16</elementGuidId>
+   <elementGuidId>3f9f6a0d-f8fd-4308-8579-75ab2e9e88ab</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-lg btn-outline-primary fs-6 rounded-4 w-100 py-3 fw-bold</value>
-      <webElementGuid>1d8dfce0-89b1-4717-acf4-235dfe4803cc</webElementGuid>
+      <webElementGuid>f563e288-0c40-4f92-98be-841a45055df6</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

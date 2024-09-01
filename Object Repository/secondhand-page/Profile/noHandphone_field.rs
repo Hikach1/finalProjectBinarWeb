@@ -3,7 +3,7 @@
    <description></description>
    <name>noHandphone_field</name>
    <tag></tag>
-   <elementGuidId>46e53936-dfb3-4996-974c-9e3f61b44970</elementGuidId>
+   <elementGuidId>feda2f27-b214-4520-b9ae-aaef7e4126c6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>user_phone_number</value>
-      <webElementGuid>4f0c19b0-5bf0-42d9-891a-995288300b3d</webElementGuid>
+      <webElementGuid>10adb4c3-eb4c-4d58-81e2-264dc374d4b5</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

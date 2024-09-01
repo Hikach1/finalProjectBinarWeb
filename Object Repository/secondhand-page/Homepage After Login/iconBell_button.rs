@@ -3,7 +3,7 @@
    <description></description>
    <name>iconBell_button</name>
    <tag></tag>
-   <elementGuidId>8059a45e-e3a5-409f-8fea-087fc3c1bdc5</elementGuidId>
+   <elementGuidId>5c1c2e8c-55c2-432b-9cb2-9784153169d3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>bi bi-bell</value>
-      <webElementGuid>9bcfca0f-f313-49cc-93c4-450ae7020ac0</webElementGuid>
+      <webElementGuid>bd5fa9ae-88e9-415e-a865-edd3396d039e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

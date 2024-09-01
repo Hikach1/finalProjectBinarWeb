@@ -3,7 +3,7 @@
    <description></description>
    <name>negoCart_button</name>
    <tag></tag>
-   <elementGuidId>27e5c82f-247d-4e32-9782-91179fb1e7a7</elementGuidId>
+   <elementGuidId>8854b078-da05-4e8c-a5ba-24d232d35395</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,7 +19,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-lg btn-primary fs-6 rounded-4 w-100 mb-3 py-3 fw-bold</value>
-      <webElementGuid>cf47d311-dc1b-46ae-a381-e82ecd4c0a7e</webElementGuid>
+      <webElementGuid>465ca5d8-583a-411d-a3e3-88edf2bc1699</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -27,6 +27,6 @@
       <name>text</name>
       <type>Main</type>
       <value>Saya tertarik dan ingin nego</value>
-      <webElementGuid>9cfdfb9b-8478-4945-a622-99b695c1b293</webElementGuid>
+      <webElementGuid>d62286e8-362b-4514-a6b2-0ef6f2a72c10</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
