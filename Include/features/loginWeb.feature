@@ -1,5 +1,6 @@
-@Websit @Login @Smoke
+@Login 
 Feature: Login
+As a User, I want to login to dashboard of Secondhand website
 
   @TC.Login.001
   Scenario: User want to login using valid credential						
@@ -114,7 +115,7 @@ Feature: Login
     Then User cannot login after input invalid credential
     And User stay in Loginpage
     
-    @TC.Login.011
+    @TC.Login.012
   Scenario: User want to login using invalid email format and input empty password		
     Given User success landing in secondhand binar website
     And User click Masuk button on the top right side

@@ -49,15 +49,9 @@ class loginWeb {
 	@Given("User success landing in secondhand binar website")
 	public void user_success_landing_in_secondhand_binar_website() {
 
-<<<<<<< HEAD
-				WebUI.openBrowser('');
-				WebUI.maximizeWindow();
-				WebUI.navigateToUrl(GlobalVariable.urlSecondhand);
-=======
 		WebUI.openBrowser('');
 		WebUI.maximizeWindow();
 		WebUI.navigateToUrl(GlobalVariable.urlSecondhand);
->>>>>>> 7ac9a8bdbb1fe215905e3b621be13197dc1a126c
 
 		WebUI.callTestCase(findTestCase('Pages/Landing Page/Verify Content Landing Page'), [:], FailureHandling.STOP_ON_FAILURE)
 	}

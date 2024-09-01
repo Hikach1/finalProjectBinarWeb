@@ -335,6 +335,12 @@ class notificationWeb {
 		}
 	}
 
+	@When("Click radio button cancel product transaction")
+	public void click_radio_button_cancel_product_transaction() {
+
+		WebUI.click(findTestObject('Notifications/radioButtonOfferStatusCanceled'))
+	}
+	
 	@When("Click radio button Berhasil terjual")
 	public void click_radio_button_Berhasil_terjual() {
 

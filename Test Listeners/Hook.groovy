@@ -27,33 +27,19 @@ import com.kms.katalon.core.util.KeywordUtil
 
 
 class Hook {
-	
+
+//  Config Katalon Versi 9	
 //	@BeforeTestCase
 //	def beforeTestCases(TestCaseContext context) {
 //	CucumberGlueGenerator.addDefaultPackages();
 //	}
-	
-	
-	
 
 	def openBrowser() {
-//		WebUI.openBrowser('');
-//		WebUI.maximizeWindow();
-//		WebUI.navigateToUrl("https://secondhand.binaracademy.org/");
-	}
-
-//	def openBrowser() {
-//		WebUI.openBrowser('');
-//		WebUI.maximizeWindow();
-//		WebUI.navigateToUrl("https://secondhand.binaracademy.org/");
-//	}
-
 		
+	}	
 	def closeBrowser() {
 		WebUI.closeBrowser();
 	}
-	
-	
 	
 	@BeforeTestCase
 	def beforeTestCase(TestCaseContext testCaseContext) {
@@ -64,18 +50,5 @@ class Hook {
 	def afterTestCase(TestCaseContext testCaseContext) {
 		this.closeBrowser()
 	}
-	
-
-	
-//	@BeforeTestSuite
-//	def beforeTestSuite(TestSuiteContext testSuiteContext) {
-//		this.openBrowser()
-//	}
-//
-//	@AfterTestSuite
-//	def afterTestSuite(TestSuiteContext testSuiteContext) {
-//		this.closeBrowser()
-//	}
-	
 	
 }

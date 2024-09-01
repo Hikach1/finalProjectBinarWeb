@@ -1,5 +1,6 @@
-@Website @Notification @Regression
+@Notification 
 Feature: Notification
+As a User, I want to verify notification feature 
 
   @TC.Notif.001
   Scenario: User as A Seller Verify that a red mark appears when there is a new notification about user successfully publishes product

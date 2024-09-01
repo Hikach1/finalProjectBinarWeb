@@ -1,5 +1,6 @@
-@Websit @Register @Smoke
+@Register
 Feature: Register
+As a User, I want to registration account in Secondhand website
 
   @TC.Reg.001
   Scenario: User want to registration correctly

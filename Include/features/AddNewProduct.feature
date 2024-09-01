@@ -1,4 +1,3 @@
-
 @AddNewProduct
 Feature: Add New Product
   As a user, I can edit and add new product in SecondHand

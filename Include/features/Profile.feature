@@ -1,4 +1,3 @@
-
 @Profile
 Feature: Profile
   As a user, I can view and edit my Account Information in SecondHand

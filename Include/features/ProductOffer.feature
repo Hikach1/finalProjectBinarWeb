@@ -1,4 +1,3 @@
-
 @ProductOffer
 Feature: Product Offer
   As a user, I can product offer in SecondHand
