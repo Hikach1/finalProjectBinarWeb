@@ -71,7 +71,7 @@ public class AddNewProduct {
 
 	@When("User input category product")
 	public void user_input_category_product() {
-		WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Kategori Produk'), [:], FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Select Kategori Produk'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
 	@When("User input description product")
@@ -94,8 +94,8 @@ public class AddNewProduct {
 		WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Verify Content After Publish Product Page'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
-	@Then("User unsuccessfully added product")
-	public void user_unsuccessfully_added_product() {
+	@Then("User unsuccessfully added product because product price")
+	public void user_unsuccessfully_added_product_because_product_price() {
 		WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Verify Error'), [('expected') : 'Price can\'t be blank'], FailureHandling.STOP_ON_FAILURE)
 	}
 
@@ -107,6 +107,26 @@ public class AddNewProduct {
 	@When("User input alphabet price product")
 	public void user_input_alphabet_price_product() {
 		WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Harga Produk'), [('hargaProduk') : 'abcd'], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@Then("User get notification must login")
+	public void user_get_notification_must_login() {
+		WebUI.callTestCase(findTestCase('SecondHand/Login_/Verify Error Login'), [('expected') : 'You need to sign in or sign up before continuing.'], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@Then("User unsuccessfully added product because product name")
+	public void user_unsuccessfully_added_product_because_product_name() {
+		WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Verify Error'), [('expected') : 'Name can\'t be blank'], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@Then("User unsuccessfully added product because product category")
+	public void user_unsuccessfully_added_product_because_product_category() {
+		WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Verify Error'), [('expected') : 'Category must exist'], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@Then("User unsuccessfully added product because product description")
+	public void user_unsuccessfully_added_product_because_product_description() {
+		WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Verify Error'), [('expected') : 'Description can\'t be blank'], FailureHandling.STOP_ON_FAILURE)
 	}
 }
 

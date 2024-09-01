@@ -1,5 +1,5 @@
 
-@Website @Profile @Smoke
+@Profile
 Feature: Profile
   As a user, I can view and edit my Account Information in SecondHand
 
@@ -52,8 +52,9 @@ Feature: Profile
  Then User click the profile icon
  And User click on the account name
  Then User should be navigated to the Account Information page
- When User leaves name field blank
+ When User input name
  And User input photo profile
+ And User unselect city
  And User input address
  And User input number handphone
  And User click simpan button
@@ -93,13 +94,14 @@ Feature: Profile
  And User close browser
  
  @TC.PRF.007
- Scenario: As a user, I can complete account profile when Profile Photo is not uploaded
+ Scenario: As a user, I can change Photo Profile
  Given User open browser
  When User has successfully logged in
  Then User click the profile icon
  And User click on the account name
  Then User should be navigated to the Account Information page
  When User input name
+ And User change photo profile
  And User select city
  And User input address
  And User input number handphone

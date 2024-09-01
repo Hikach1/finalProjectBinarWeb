@@ -3,7 +3,7 @@
    <description></description>
    <name>preview_button</name>
    <tag></tag>
-   <elementGuidId>8d2ac6c8-adbc-4f3f-9bb1-f3de5c8f4c3c</elementGuidId>
+   <elementGuidId>082cd252-0536-425e-8bfa-7282d1e19556</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-outline-primary w-50 rounded-4 p-3</value>
-      <webElementGuid>6973f75c-b806-4c60-ae5f-92349131ce57</webElementGuid>
+      <webElementGuid>3fa3d90f-904c-429e-9ce0-e19b718a63b9</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

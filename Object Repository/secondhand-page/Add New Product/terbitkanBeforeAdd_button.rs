@@ -3,7 +3,7 @@
    <description></description>
    <name>terbitkanBeforeAdd_button</name>
    <tag></tag>
-   <elementGuidId>142b9aa9-ab7d-4727-811b-90be0296c1bd</elementGuidId>
+   <elementGuidId>c4d2a31b-8396-4e1a-b02b-8f126aadfd83</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary w-50 rounded-4 p-3</value>
-      <webElementGuid>1b54c942-67d2-4df8-a0aa-3e4aedb5c8a8</webElementGuid>
+      <webElementGuid>0b0cc813-8a19-444d-a045-eabebbfa2916</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

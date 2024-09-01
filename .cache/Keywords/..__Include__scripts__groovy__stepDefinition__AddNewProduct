@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "7379EF2459D1334E7BBFD5D28C0A27EE",
+  "keywordFileContentHash": "8DD8A88EFD036876DBFDA1EA42D55DEB",
   "keywordClasses": [
     {
       "name": "stepDefinition.AddNewProduct",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

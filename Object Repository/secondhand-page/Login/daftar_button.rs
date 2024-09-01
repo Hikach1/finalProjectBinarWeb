@@ -3,7 +3,7 @@
    <description></description>
    <name>daftar_button</name>
    <tag></tag>
-   <elementGuidId>240af272-11fc-4ac6-9bcd-0a11df4fc448</elementGuidId>
+   <elementGuidId>05682baa-ff37-436d-b887-64167b6ff2eb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>fw-bold</value>
-      <webElementGuid>8698ecae-ccbf-4df9-be09-9a7b5255af8a</webElementGuid>
+      <webElementGuid>d717ff08-610f-4ddb-b248-825f4e135c89</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>uploadPhotoProfile_form</name>
    <tag></tag>
-   <elementGuidId>66b3f780-66d4-4ce9-80d6-bf1c11b2ca22</elementGuidId>
+   <elementGuidId>6d61c070-636f-48e2-9795-a09b01d986d3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>form-avatar</value>
-      <webElementGuid>63da99dc-00fb-4c85-8245-354bc3d32514</webElementGuid>
+      <webElementGuid>b3bccc60-a483-4bb3-98de-23a8b5713da6</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

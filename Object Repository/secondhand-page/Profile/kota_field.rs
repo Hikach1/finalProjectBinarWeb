@@ -3,7 +3,7 @@
    <description></description>
    <name>kota_field</name>
    <tag></tag>
-   <elementGuidId>86f9cbda-c849-4286-8b54-0e30a70f9f58</elementGuidId>
+   <elementGuidId>eb0f874b-9921-4314-993c-04d27d5339bd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>user_city_id</value>
-      <webElementGuid>31dca6f5-9889-438f-a890-8c3a024cafd5</webElementGuid>
+      <webElementGuid>d344d6cc-2bf3-4497-802e-d437c2945b16</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

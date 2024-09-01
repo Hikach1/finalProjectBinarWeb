@@ -3,7 +3,7 @@
    <description></description>
    <name>hargaTawar_field</name>
    <tag></tag>
-   <elementGuidId>133863bc-2a10-4182-9606-fb24f4ff94da</elementGuidId>
+   <elementGuidId>58896c75-247c-4bf2-9250-1e678973f672</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>offer_price</value>
-      <webElementGuid>883fa126-dab3-4df2-8904-04d786c95463</webElementGuid>
+      <webElementGuid>a5ebfbed-7e36-44e7-9918-c05c21ff617e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

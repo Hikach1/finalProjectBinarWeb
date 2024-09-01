@@ -3,7 +3,7 @@
    <description></description>
    <name>terbitkanAfterAdd_button</name>
    <tag></tag>
-   <elementGuidId>a321ac84-968c-4b3c-8628-c691ad2e02bc</elementGuidId>
+   <elementGuidId>1f1c7022-969c-4878-9885-9715a9907d2e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-lg btn-primary fs-6 rounded-4 w-100 mb-3 py-3 fw-bold</value>
-      <webElementGuid>3a7237aa-eeae-4742-824d-e566012683f4</webElementGuid>
+      <webElementGuid>3aa1727e-8a58-4899-87f9-b645157e8e70</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

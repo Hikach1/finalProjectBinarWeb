@@ -88,7 +88,7 @@ public class Profile {
 
 	@When("User select city")
 	public void user_select_city() {
-		WebUI.callTestCase(findTestCase('SecondHand/Profile/Input Kota'), [:], FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Select Kota'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
 	@When("User input address")
@@ -134,5 +134,15 @@ public class Profile {
 	@When("User empty number handphone")
 	public void user_empty_number_handphone() {
 		WebUI.callTestCase(findTestCase('SecondHand/Profile/Delete No Handphone'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User unselect city")
+	public void user_unselect_city() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Unselect Kota'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User change photo profile")
+	public void user_change_photo_profile() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Change Photo Profile'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 }

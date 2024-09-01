@@ -3,7 +3,7 @@
    <description></description>
    <name>uploadPhotoProduk_form</name>
    <tag></tag>
-   <elementGuidId>89b94b57-ba12-4b9b-bca1-4fa999f1ad13</elementGuidId>
+   <elementGuidId>0d4c67a0-2fa8-4a11-a7b1-d875adea1040</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>product_images</value>
-      <webElementGuid>e6b0158f-977c-468f-a847-da0971dce295</webElementGuid>
+      <webElementGuid>b81e8183-4760-41c3-9441-d6d91735d827</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

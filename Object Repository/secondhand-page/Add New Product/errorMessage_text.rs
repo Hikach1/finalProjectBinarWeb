@@ -3,7 +3,7 @@
    <description></description>
    <name>errorMessage_text</name>
    <tag></tag>
-   <elementGuidId>4810f2a1-601d-49a0-a385-21188bf3e7b8</elementGuidId>
+   <elementGuidId>c5efb934-ca94-4f01-a721-39990ac0480c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>form-text text-danger</value>
-      <webElementGuid>1e980724-dee0-47e3-a87f-ead21b13ccc3</webElementGuid>
+      <webElementGuid>856d65e9-7ea8-494a-8927-2396668e2b1c</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

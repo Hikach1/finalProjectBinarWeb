@@ -3,7 +3,7 @@
    <description></description>
    <name>namaProduk_field</name>
    <tag></tag>
-   <elementGuidId>18ad9a7d-3693-4aa3-a5e6-630694e4a3f2</elementGuidId>
+   <elementGuidId>ae3517aa-99f6-4b4f-a0ab-9500c3c03694</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>product_name</value>
-      <webElementGuid>14104bd1-5e05-4393-bb4b-d02c928811e2</webElementGuid>
+      <webElementGuid>a0f9eea6-6c65-4adf-9368-90a4a1da928d</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
