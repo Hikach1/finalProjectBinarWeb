@@ -23,7 +23,7 @@ WebUI.callTestCase(findTestCase('Pages/Landing Page/Click Button Masuk'), [:], F
 
 WebUI.callTestCase(findTestCase('Pages/Login Page/Verify Content Login Page'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Pages/Login Page/Set Email Login'), [('emailLog') : 'SellerPlatinum@gmail.com'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Pages/Login Page/Set Email Login'), [('emailLog') : 'SellerPlatinum1@gmail.com'], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Pages/Login Page/Set Password Login'), [('passwordLog') : '123456'], FailureHandling.STOP_ON_FAILURE)
 

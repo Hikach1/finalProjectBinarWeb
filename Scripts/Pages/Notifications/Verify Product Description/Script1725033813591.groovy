@@ -17,13 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementPresent(findTestObject('Notifications/elementProductName'), 0)
+WebUI.verifyElementPresent(findTestObject('Notifications/elementProductDesc'), 0)
 
-nameProduct = WebUI.getText(findTestObject('Notifications/elementProductName'))
+nameProduct = WebUI.getText(findTestObject('Notifications/elementProductDesc'))
 
-WebUI.verifyElementPresent(findTestObject('Notifications/elementProductName'), 0)
+WebUI.verifyElementPresent(findTestObject('Notifications/elementProductDesc'), 0)
 
-nameProductExpected = WebUI.getText(findTestObject('Notifications/elementProductName'))
+nameProductExpected = WebUI.getText(findTestObject('Notifications/elementProductDesc'))
 
 WebUI.verifyMatch(nameProduct, nameProductExpected, false)
 

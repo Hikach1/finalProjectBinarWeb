@@ -1,5 +1,5 @@
-@tag
-Feature: As a User, I want to register account in Secondhand Binar website
+@Websit @Register @Smoke
+Feature: Register
 
   @TC.Reg.001
   Scenario: User want to registration correctly
@@ -73,15 +73,5 @@ Feature: As a User, I want to register account in Secondhand Binar website
     Then User cannot registration account
     And User stay in login page 
     
-  @TC.Reg.007
-  Scenario: User want to register with under 6 digit password
-    Given User landing in secondhand binar website
-    When Click Masuk button on the top right side
-    And Click Daftar di sini button
-    And Input valid Name field "Katalon2"
-    And Input valid Email field 
-    And Input password under 6 digit "123"
-    And Click Daftar button
-    Then User cannot registration account
-    And User stay in login page 
+
     

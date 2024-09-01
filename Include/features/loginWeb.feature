@@ -1,5 +1,5 @@
-@tag
-Feature: As a user, I want to login in Secondhand Binar website
+@Websit @Login @Smoke
+Feature: Login
 
   @TC.Login.001
   Scenario: User want to login using valid credential						
@@ -95,11 +95,31 @@ Feature: As a user, I want to login in Secondhand Binar website
     And User stay in Loginpage
     
     @TC.Login.010
-  Scenario: User want to login using invalid Email format and input valid Password		
+  Scenario: User want to login using invalid Email format and input correct Password		
     Given User success landing in secondhand binar website
     And User click Masuk button on the top right side
     And User input invalid Email "Binarbootcampcom"
     And User input correct Password "123456"
+    And User click button Masuk
+    Then User cannot login after input invalid credential
+    And User stay in Loginpage
+    
+    @TC.Login.011
+  Scenario: User want to login using invalid email format and input incorrect password		
+    Given User success landing in secondhand binar website
+    And User click Masuk button on the top right side
+    And User input invalid Email "Binarbootcampcom"
+    And User input incorrect Password "1"
+    And User click button Masuk
+    Then User cannot login after input invalid credential
+    And User stay in Loginpage
+    
+    @TC.Login.011
+  Scenario: User want to login using invalid email format and input empty password		
+    Given User success landing in secondhand binar website
+    And User click Masuk button on the top right side
+    And User input invalid Email "Binarbootcampcom"
+    And User doesnt fill in the Password field ""
     And User click button Masuk
     Then User cannot login after input invalid credential
     And User stay in Loginpage

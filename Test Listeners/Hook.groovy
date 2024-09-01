@@ -36,9 +36,9 @@ class Hook {
 	
 	
 	def openBrowser() {
-		WebUI.openBrowser('');
-		WebUI.maximizeWindow();
-		WebUI.navigateToUrl("https://secondhand.binaracademy.org/");
+//		WebUI.openBrowser('');
+//		WebUI.maximizeWindow();
+//		WebUI.navigateToUrl("https://secondhand.binaracademy.org/");
 	}
 		
 	def closeBrowser() {
@@ -49,13 +49,11 @@ class Hook {
 	
 	@BeforeTestCase
 	def beforeTestCase(TestCaseContext testCaseContext) {
-		//KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
 		this.openBrowser()
 	}
 	
 	@AfterTestCase
 	def afterTestCase(TestCaseContext testCaseContext) {
-		//KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
 		this.closeBrowser()
 	}
 	
