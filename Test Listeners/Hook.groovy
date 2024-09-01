@@ -35,11 +35,19 @@ class Hook {
 	
 	
 	
+
+	def openBrowser() {
+//		WebUI.openBrowser('');
+//		WebUI.maximizeWindow();
+//		WebUI.navigateToUrl("https://secondhand.binaracademy.org/");
+	}
+
 //	def openBrowser() {
 //		WebUI.openBrowser('');
 //		WebUI.maximizeWindow();
 //		WebUI.navigateToUrl("https://secondhand.binaracademy.org/");
 //	}
+
 		
 	def closeBrowser() {
 		WebUI.closeBrowser();

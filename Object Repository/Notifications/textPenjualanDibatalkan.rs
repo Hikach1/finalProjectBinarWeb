@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>elementProductName</name>
+   <name>textPenjualanDibatalkan</name>
    <tag></tag>
-   <elementGuidId>42505faf-4f3e-4f49-b037-3ff03b2527e6</elementGuidId>
+   <elementGuidId>e470a088-e5ec-4272-b4b3-bdc732005cc9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;navbarSupportedContent&quot;]/div/ul/li[3]/ul/li[1]/a/div[1]/div[2]</value>
+         <value>(//*/text()[normalize-space(.)='Penjualan dibatalkan']/parent::*)[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
