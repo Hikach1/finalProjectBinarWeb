@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Runner</name>
+   <name>Click Product Detail</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>dcadb42b-f0e3-4405-8f03-4aa4ea87535f</testCaseGuid>
+   <testCaseGuid>233d4ff3-1a19-4ff1-87ca-b14305f77582</testCaseGuid>
 </TestCaseEntity>

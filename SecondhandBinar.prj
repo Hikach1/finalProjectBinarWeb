@@ -4,12 +4,16 @@
    <name>SecondhandBinar</name>
    <tag></tag>
    <UUID>addcf255-63f2-44c8-9905-7d248153d99f</UUID>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>FREE</modifiedEdition>
-   <modifiedVersion>9.5.0</modifiedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+<<<<<<< HEAD
+   <projectFileLocation>C:\Users\Orpheus\Katalon Studio\finalprojectbinarweb\SecondhandBinar.prj</projectFileLocation>
+=======
    <projectFileLocation>D:\Bootcamp\Final Project\FinalProjectWeb\SecondhandBinar.prj</projectFileLocation>
+>>>>>>> origin/main
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
