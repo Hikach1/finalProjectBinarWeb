@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
+<<<<<<<< HEAD:Test Cases/DeleteTas.tc
    <name>DeleteTas</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>81ee0a55-3eda-4da9-9e11-90feb8a4120c</testCaseGuid>
+========
+   <name>Click Delete Product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10fdea5a-23a5-49bc-aaaa-4cf8c582c365</testCaseGuid>
+>>>>>>>> origin/Mia:Test Cases/SecondHand/Daftar Jual Saya/Click Delete Product.tc
 </TestCaseEntity>
