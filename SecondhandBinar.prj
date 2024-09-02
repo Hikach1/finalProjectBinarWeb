@@ -9,11 +9,7 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-<<<<<<< HEAD
-   <projectFileLocation>D:\Bootcamp\Final Project\FinalProjectWeb\SecondhandBinar.prj</projectFileLocation>
-=======
    <projectFileLocation>C:\Users\Orpheus\Katalon Studio\finalprojectbinarweb\SecondhandBinar.prj</projectFileLocation>
->>>>>>> Mia
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -35,3 +31,4 @@
    <timeStampInProperties>false</timeStampInProperties>
    <type>WEBUI</type>
 </Project>
+
