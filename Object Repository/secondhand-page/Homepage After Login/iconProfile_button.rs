@@ -3,7 +3,7 @@
    <description></description>
    <name>iconProfile_button</name>
    <tag></tag>
-   <elementGuidId>23fb8ff8-8000-4994-954b-0e9e4795d18e</elementGuidId>
+   <elementGuidId>8357e744-13d4-4687-88ed-a10f538aa8d2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link dropdown-toggle d-flex align-items-center</value>
-      <webElementGuid>d0ab3c1a-1254-405e-a01b-90e3feddd887</webElementGuid>
+      <webElementGuid>42682f57-fb16-4188-a3b4-9a41bc7d7339</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>kategoriCart_text</name>
    <tag></tag>
-   <elementGuidId>e743f4e2-d15e-4f27-8afe-5137b5b0febd</elementGuidId>
+   <elementGuidId>c390db04-577e-4e97-a044-4df9baacb00f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>card-text text-black-50 fs-6</value>
-      <webElementGuid>533b2264-5d90-4f7c-bca1-049091b8aab9</webElementGuid>
+      <webElementGuid>0148c732-704b-4496-bbaa-3f28005fca87</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>kotaSellCart_text</name>
    <tag></tag>
-   <elementGuidId>968001e3-fe37-4470-8df9-a50b011c38a4</elementGuidId>
+   <elementGuidId>e18a01ed-2d2c-47b6-a823-5cdb894c68bd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>fs-6 text-black-50</value>
-      <webElementGuid>56555a23-b8d6-4748-8971-5b610cf88fb6</webElementGuid>
+      <webElementGuid>dc4493a9-bd58-426f-96ba-e6c8a0e21ef7</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

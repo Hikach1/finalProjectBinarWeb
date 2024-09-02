@@ -3,7 +3,7 @@
    <description></description>
    <name>kotaJakarta_field</name>
    <tag></tag>
-   <elementGuidId>8dd1d091-8bc9-46f6-a96b-a0fbfb55718e</elementGuidId>
+   <elementGuidId>37805cb1-305f-4cc2-942a-910877ed70ef</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>text</name>
       <type>Main</type>
       <value>Jakarta</value>
-      <webElementGuid>136b348e-7bd0-469b-8955-5f2b5e483d65</webElementGuid>
+      <webElementGuid>a5ae8ba5-28b2-4265-ad25-9d1e401e275e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>nama_field</name>
    <tag></tag>
-   <elementGuidId>b8c0c68d-4484-4c83-bcb8-1a7c8ab4a4a1</elementGuidId>
+   <elementGuidId>1bea87ef-558e-4a89-ac4a-2009e4a1ba7e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>user_name</value>
-      <webElementGuid>8aa00edc-6d44-4040-8d5a-8c82c40be039</webElementGuid>
+      <webElementGuid>c9fd1a89-1828-44dd-a2a5-5b699c4b8245</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

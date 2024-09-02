@@ -88,7 +88,7 @@ public class Profile {
 
 	@When("User select city")
 	public void user_select_city() {
-		WebUI.callTestCase(findTestCase('SecondHand/Profile/Input Kota'), [:], FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Select Kota'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
 	@When("User input address")
@@ -114,5 +114,35 @@ public class Profile {
 	@When("User leaves name field blank")
 	public void user_leaves_name_field_blank() {
 		WebUI.callTestCase(findTestCase('SecondHand/Profile/Delete Nama'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@Then("User cant complete account profile")
+	public void user_cant_complete_account_profile() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Verify Content Profile Page'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User input photo profile")
+	public void user_input_photo_profile() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Input Photo Profile'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User empty address")
+	public void user_empty_address() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Delete Alamat'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User empty number handphone")
+	public void user_empty_number_handphone() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Delete No Handphone'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User unselect city")
+	public void user_unselect_city() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Unselect Kota'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User change photo profile")
+	public void user_change_photo_profile() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Change Photo Profile'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 }

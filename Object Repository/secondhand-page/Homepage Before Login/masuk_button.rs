@@ -3,7 +3,7 @@
    <description></description>
    <name>masuk_button</name>
    <tag></tag>
-   <elementGuidId>f22e654b-059c-4289-a1d8-03962ef2e7d5</elementGuidId>
+   <elementGuidId>f76f7eb4-31fd-4d9e-9d44-d6bcc3eed5dd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>df4e9e45-d611-4a98-a56c-716a78cf1ea5</webElementGuid>
+      <webElementGuid>b42a8608-21fa-47c2-a226-0c5eb182cdef</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

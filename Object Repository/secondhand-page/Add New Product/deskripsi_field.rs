@@ -3,7 +3,7 @@
    <description></description>
    <name>deskripsi_field</name>
    <tag></tag>
-   <elementGuidId>8bc196af-4e85-4897-8771-9b54fa295792</elementGuidId>
+   <elementGuidId>55dd3ddb-9d49-4f4e-b941-d51c073b2a65</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>product_description</value>
-      <webElementGuid>ecc5c943-b048-4473-9f2c-73289345dc84</webElementGuid>
+      <webElementGuid>70d3de3a-e8f1-419e-a15a-761a28ae99cf</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

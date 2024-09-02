@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>876fa926-e0a8-4abb-ae4d-d60bc77658b8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2d3f9389-6556-417a-a5c4-5812ae8c015e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60b83120-4669-489d-99cb-445b947c98f4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f31fa872-4be3-494e-83f8-d1daed247c8d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d3f9389-6556-417a-a5c4-5812ae8c015e</id>
+      <masked>false</masked>
+      <name>namaproduk</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>60b83120-4669-489d-99cb-445b947c98f4</id>
+      <masked>false</masked>
+      <name>hargaproduk</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f31fa872-4be3-494e-83f8-d1daed247c8d</id>
+      <masked>false</masked>
+      <name>deskripsi</name>
+   </variable>
+</TestCaseEntity>

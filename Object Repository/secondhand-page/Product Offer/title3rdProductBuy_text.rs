@@ -3,7 +3,7 @@
    <description></description>
    <name>title3rdProductBuy_text</name>
    <tag></tag>
-   <elementGuidId>e5a7a736-572b-4e5c-91c1-e92aa7771145</elementGuidId>
+   <elementGuidId>6e8049c8-dcea-4979-9f75-05e76bdb3aec</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,7 +19,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-title</value>
-      <webElementGuid>19b1b218-15d8-4c4a-9cab-26d6b608cc7c</webElementGuid>
+      <webElementGuid>5b98625d-84b9-4fef-9cf8-9e8d6353b876</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -27,6 +27,6 @@
       <name>text</name>
       <type>Main</type>
       <value>Sapi_1</value>
-      <webElementGuid>f1abbd21-1327-4f2a-bfec-5ee900c57e19</webElementGuid>
+      <webElementGuid>85950e48-b99d-41a9-92b8-eab8e913995e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

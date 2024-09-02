@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.005 - As a user, I cant edit account profile when the Alamat field empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9389546f-76ff-4f81-ab0f-65840d8151fe</testCaseGuid>
+</TestCaseEntity>

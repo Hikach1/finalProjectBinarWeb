@@ -3,7 +3,7 @@
    <description></description>
    <name>searchForm</name>
    <tag></tag>
-   <elementGuidId>d807e31b-b762-46a7-9cd0-a8856a2e91de</elementGuidId>
+   <elementGuidId>56da3f0f-cbf1-41ee-ab67-8db447af70b5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control bg-transparent border-0 form-search</value>
-      <webElementGuid>38bddd7c-ce4a-4ea1-9630-bcf2af1de21f</webElementGuid>
+      <webElementGuid>847bb1ba-c4d5-40d0-9238-74d5799be128</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

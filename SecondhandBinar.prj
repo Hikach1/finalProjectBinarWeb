@@ -9,7 +9,11 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+<<<<<<< HEAD
    <projectFileLocation>C:\Users\Orpheus\Katalon Studio\finalprojectbinarweb\SecondhandBinar.prj</projectFileLocation>
+=======
+   <projectFileLocation>D:\Bootcamp\Final Project\FinalProjectWeb\SecondhandBinar.prj</projectFileLocation>
+>>>>>>> origin/main
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

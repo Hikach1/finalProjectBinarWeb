@@ -1,10 +1,14 @@
 {
-  "keywordFileContentHash": "C2B9F26D77BE7F9471750435901079F5",
+<<<<<<< HEAD
+  "keywordFileContentHash": "DAB017FDB3080021EB66A83F9E17BA7C",
+=======
+  "keywordFileContentHash": "565892AC2A2B1CD3006330F439408348",
+>>>>>>> 7ac9a8bdbb1fe215905e3b621be13197dc1a126c
   "keywordClasses": [
     {
       "name": "Runner",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

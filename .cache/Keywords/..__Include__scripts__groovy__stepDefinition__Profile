@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "keywordFileContentHash": "5286D10025BB07DDCC1756564879BD99",
+=======
+  "keywordFileContentHash": "6D6E05DE19DB7EA49A9CD8319FCFB1C5",
+>>>>>>> origin/main
   "keywordClasses": [
     {
       "name": "stepDefinition.Profile",

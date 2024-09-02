@@ -3,7 +3,7 @@
    <description></description>
    <name>kirim_button</name>
    <tag></tag>
-   <elementGuidId>8c5ed08e-5074-48b8-8e13-4a27830b0c0e</elementGuidId>
+   <elementGuidId>e7e53113-f0f3-4b59-ad4f-e60a08b41182</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary p-3 w-100 rounded-4 fw-bold</value>
-      <webElementGuid>9c3ca3a5-3fac-4210-944a-efe9ff772453</webElementGuid>
+      <webElementGuid>1c17d51c-1312-42fc-841a-d7764e9bfad1</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

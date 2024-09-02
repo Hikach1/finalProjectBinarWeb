@@ -3,7 +3,7 @@
    <description></description>
    <name>errorMessage_text</name>
    <tag></tag>
-   <elementGuidId>ebac4b0c-07e6-486b-ab24-2b92c9882dd4</elementGuidId>
+   <elementGuidId>48c70b2c-e08d-4380-aaa8-39891f6e3b2f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>alert alert-danger alert-dismissible position-fixed top-0 start-50 translate-middle-x mt-5</value>
-      <webElementGuid>32035b6a-5339-4c8a-8d9f-372663c73840</webElementGuid>
+      <webElementGuid>9c6d054e-72e8-4730-9389-4bb71ff8242e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

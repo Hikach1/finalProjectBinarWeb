@@ -3,7 +3,7 @@
    <description></description>
    <name>hargaCart_text</name>
    <tag></tag>
-   <elementGuidId>613f9cc4-7da6-4727-a8a7-770bdae08bb6</elementGuidId>
+   <elementGuidId>7da2b846-7ae2-41a3-bbbc-a92804222618</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>card-text fs-5</value>
-      <webElementGuid>e90f97a3-c6d3-429a-abd6-ea38aa772b40</webElementGuid>
+      <webElementGuid>b0ce53b7-5b2f-43a1-ae63-5eb8a8d1fb24</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

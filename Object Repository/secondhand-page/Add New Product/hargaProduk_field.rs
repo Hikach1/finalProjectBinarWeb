@@ -3,7 +3,7 @@
    <description></description>
    <name>hargaProduk_field</name>
    <tag></tag>
-   <elementGuidId>99add335-c30a-4310-b724-dd9d3bff96b3</elementGuidId>
+   <elementGuidId>2a699719-db76-470a-a1e9-b34d3b21bbe7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>product_price</value>
-      <webElementGuid>80646c52-1c8f-4c08-bc55-4b49b1a77210</webElementGuid>
+      <webElementGuid>24b13d48-37e0-4f66-aedf-288bade6c296</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

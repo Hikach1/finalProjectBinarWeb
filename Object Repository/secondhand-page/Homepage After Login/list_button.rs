@@ -3,7 +3,7 @@
    <description></description>
    <name>list_button</name>
    <tag></tag>
-   <elementGuidId>c262399a-95a3-4cb1-82c0-4aa5dea551e2</elementGuidId>
+   <elementGuidId>25736cf2-043c-49a5-b1cb-aab9a9ee69b4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>bi bi-list-ul me-4 me-lg-0</value>
-      <webElementGuid>c8082006-f588-4660-8bd6-cf24b5572e8d</webElementGuid>
+      <webElementGuid>099efcac-22c9-4a29-be65-e63898afc206</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

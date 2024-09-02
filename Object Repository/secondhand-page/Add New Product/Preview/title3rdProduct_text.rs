@@ -3,7 +3,7 @@
    <description></description>
    <name>title3rdProduct_text</name>
    <tag></tag>
-   <elementGuidId>0ca90360-e57f-4ef3-b460-ef8ab193bbed</elementGuidId>
+   <elementGuidId>a2ec1c40-6593-42bd-9711-1b4f4505a5a1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>card-title fs-5 fw-bolder</value>
-      <webElementGuid>e1890104-3c4b-4567-9ad2-65f6d3790809</webElementGuid>
+      <webElementGuid>cf6817dd-66dc-4139-970e-dfc6a0976517</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

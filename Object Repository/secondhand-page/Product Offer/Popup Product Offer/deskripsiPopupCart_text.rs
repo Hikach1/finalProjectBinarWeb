@@ -3,7 +3,7 @@
    <description></description>
    <name>deskripsiPopupCart_text</name>
    <tag></tag>
-   <elementGuidId>cad0569f-e93e-4996-b14a-6d666d354161</elementGuidId>
+   <elementGuidId>f164a4c4-4131-4177-b904-2aeb367d02e5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>text-black-50 fs-5</value>
-      <webElementGuid>16a20757-8459-4a65-957a-9e958b064773</webElementGuid>
+      <webElementGuid>68b5b212-a6ca-4fd8-a08b-ceb59e70f583</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -158,8 +158,8 @@ class loginWeb {
 		WebUI.callTestCase(findTestCase('Pages/Login Page/Error Messages'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
-	@And("User close browser")
-	public void user_close_browser() {
-		WebUI.closeBrowser();
-	}
+	//	@And("User close browser")
+	//	public void user_close_browser() {
+	//		WebUI.closeBrowser();
+	//	}
 }

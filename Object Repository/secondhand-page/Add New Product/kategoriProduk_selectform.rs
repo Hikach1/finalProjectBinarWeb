@@ -3,7 +3,7 @@
    <description></description>
    <name>kategoriProduk_selectform</name>
    <tag></tag>
-   <elementGuidId>8abdd454-bbbb-4fed-94ed-0f4b2606f988</elementGuidId>
+   <elementGuidId>32065974-4d1f-4300-901c-810dbe97905c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>product_category_id</value>
-      <webElementGuid>964a8cba-f4ae-4bc5-a7fb-a5f3f4ee96fa</webElementGuid>
+      <webElementGuid>7897ed74-a8dd-418b-a798-6908902caa97</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

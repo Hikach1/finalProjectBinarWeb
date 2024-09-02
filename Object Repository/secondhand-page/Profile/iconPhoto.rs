@@ -3,7 +3,7 @@
    <description></description>
    <name>iconPhoto</name>
    <tag></tag>
-   <elementGuidId>e6c104a8-141d-4575-bf04-3e632e262de5</elementGuidId>
+   <elementGuidId>bbf3e6f9-2691-4898-af9d-574138567f9a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>form-avatar</value>
-      <webElementGuid>a0e7bfed-5d6f-4319-ae1b-d4865b20b372</webElementGuid>
+      <webElementGuid>a8e8be97-3e29-4af3-a57b-30a79c860588</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

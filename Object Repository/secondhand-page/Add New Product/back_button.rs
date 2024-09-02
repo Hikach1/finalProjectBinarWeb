@@ -3,7 +3,7 @@
    <description></description>
    <name>back_button</name>
    <tag></tag>
-   <elementGuidId>19cd7bbb-81eb-42b3-a959-880ec092eeeb</elementGuidId>
+   <elementGuidId>1e9b78c0-772a-41bd-8487-fee94d8c1f8b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>bi bi-arrow-left fs-5</value>
-      <webElementGuid>7761dbdb-2458-4f58-bb12-533efb1be5a7</webElementGuid>
+      <webElementGuid>8914be33-76c9-4e54-ba70-eec83b621c9a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

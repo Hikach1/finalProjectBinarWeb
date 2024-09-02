@@ -79,4 +79,24 @@ public class productOffer {
 	public void user_should_be_navigated_to_the_product_popup_page() {
 		WebUI.callTestCase(findTestCase('SecondHand/Product Offer/Verify Content Cart Popup Page'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
+
+	@Then("User should be navigated to the login page")
+	public void user_should_be_navigated_to_the_login_page() {
+		WebUI.callTestCase(findTestCase('SecondHand/Login_/Verify Content Login'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User input negotiate price")
+	public void user_input_negotiate_price() {
+		WebUI.callTestCase(findTestCase('SecondHand/Product Offer/Input Harga Tawar'), [('hargaTawar') : '10000'], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User click send button")
+	public void user_click_send_button() {
+		WebUI.callTestCase(findTestCase('SecondHand/Product Offer/Click Kirim'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User input negotiate zero price")
+	public void user_input_negotiate_zero_price() {
+		WebUI.callTestCase(findTestCase('SecondHand/Product Offer/Input Harga Tawar'), [('hargaTawar') : '0'], FailureHandling.STOP_ON_FAILURE)
+	}
 }

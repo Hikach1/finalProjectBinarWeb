@@ -5,17 +5,17 @@
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>dfeb6b2e-ca6e-4aea-8737-ebc7b8bab9ab</testCaseGuid>
+   <testCaseGuid>2c379dc2-54c3-4a70-b60d-09eea5b7ad00</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>c57e18ac-3fa6-4da3-b1bd-0c50d116742e</variableId>
+      <variableId>047ee7d3-4a23-4cc8-99ff-85ccfe84853a</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>c57e18ac-3fa6-4da3-b1bd-0c50d116742e</id>
+      <id>047ee7d3-4a23-4cc8-99ff-85ccfe84853a</id>
       <masked>false</masked>
       <name>expected</name>
    </variable>

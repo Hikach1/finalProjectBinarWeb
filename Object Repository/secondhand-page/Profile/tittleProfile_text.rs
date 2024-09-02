@@ -3,7 +3,7 @@
    <description></description>
    <name>tittleProfile_text</name>
    <tag></tag>
-   <elementGuidId>e494eff0-16cf-4311-a7f4-a5c149d72408</elementGuidId>
+   <elementGuidId>54c9a5f6-1159-4d15-813f-46e56e2a5cd0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>fs-6 fw-bold text-center position-absolute top-50 start-50 translate-middle</value>
-      <webElementGuid>b7633ee8-cdad-4ad4-acdc-f0e595a4ecf8</webElementGuid>
+      <webElementGuid>d81ef7df-5d48-4fc1-b687-3d742cb1ddc2</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

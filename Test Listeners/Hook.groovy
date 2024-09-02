@@ -23,55 +23,32 @@ import com.kms.katalon.core.context.TestCaseContext
 import com.kms.katalon.core.context.TestSuiteContext
 
 import com.kms.katalon.core.util.KeywordUtil
-import com.kms.katalon.core.cucumber.keyword.internal.CucumberGlueGenerator
+//import com.kms.katalon.core.cucumber.keyword.internal.CucumberGlueGenerator
 
 
 class Hook {
-	
-	@BeforeTestCase
-	def beforeTestCases(TestCaseContext context) {
-	CucumberGlueGenerator.addDefaultPackages();
-	}
-	
-	
-	
+
+//  Config Katalon Versi 9	
+//	@BeforeTestCase
+//	def beforeTestCases(TestCaseContext context) {
+//	CucumberGlueGenerator.addDefaultPackages();
+//	}
+
 	def openBrowser() {
-		WebUI.openBrowser('');
-		WebUI.maximizeWindow();
-		WebUI.navigateToUrl("https://secondhand.binaracademy.org/");
-	}
 		
+	}	
 	def closeBrowser() {
 		WebUI.closeBrowser();
 	}
 	
-	
-	
 	@BeforeTestCase
 	def beforeTestCase(TestCaseContext testCaseContext) {
-		//KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
 		this.openBrowser()
 	}
 	
 	@AfterTestCase
 	def afterTestCase(TestCaseContext testCaseContext) {
-		//KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
 		this.closeBrowser()
 	}
-	
-
-	
-//	@BeforeTestSuite
-//	def beforeTestSuite(TestSuiteContext testSuiteContext) {
-//		//KeywordUtil.logInfo('Test Suite: ' + testSuiteContext.getTestSuiteId())
-//		this.openBrowser()
-//	}
-//
-//	@AfterTestSuite
-//	def afterTestSuite(TestSuiteContext testSuiteContext) {
-//		//KeywordUtil.logInfo('Test Suite: ' + testSuiteContext.getTestSuiteId())
-//		this.closeBrowser()
-//	}
-	
 	
 }
