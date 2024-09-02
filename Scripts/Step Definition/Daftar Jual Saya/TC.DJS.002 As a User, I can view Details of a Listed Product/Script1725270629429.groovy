@@ -17,24 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('SecondHand/Daftar Jual Saya/Login Daftar Jual Saya'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://secondhand.binaracademy.org/')
+WebUI.callTestCase(findTestCase('SecondHand/Daftar Jual Saya/Click Daftar Jual Saya'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('null'))
+WebUI.callTestCase(findTestCase('Pages/Daftar Jual Saya/Verify Daftar Jual Saya Page'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.rightClick(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Daftar Jual Saya/ContohProduk'))
 
-WebUI.setText(findTestObject('null'), 'telowed836@apifan.com')
+WebUI.callTestCase(findTestCase('SecondHand/Daftar Jual Saya/Click Produk Detail'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setEncryptedText(findTestObject('null'), 
-    '2P3xME+nVvAYSCiv6pZdSw==')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('Object Repository/Daftar Jual Saya/Produk Saya'))
-
-WebUI.click(findTestObject('Object Repository/Daftar Jual Saya/Kacamata_1 Baju Rp 950.000'))
-
-WebUI.closeBrowser()
+WebUI.callTestCase(findTestCase('Pages/Daftar Jual Saya/Verify Product Detail Page'), [:], FailureHandling.STOP_ON_FAILURE)
 

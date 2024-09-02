@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_TestCase</name>
+   <name>ContohProduk</name>
    <tag></tag>
-   <elementGuidId>8a4b95fb-3b02-4271-ae24-94171692eaa7</elementGuidId>
+   <elementGuidId>9421076e-85cc-4f49-a6da-d4e7d9fef611</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Jual Saya'])[1]/following::div[4]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Produk'])[1]/following::h5[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.py-3.ps-4 > div.fs-5.fw-bold</value>
+         <value>div.card-body.text-decoration-none > h5.card-title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>section >> internal:text=&quot;TestCase&quot;i</value>
+         <value>internal:role=link[name=&quot;Kacamata_1 Baju Rp 950.000&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,71 +28,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>36e01a8e-d30b-44c9-a43e-3a06daba37a9</webElementGuid>
+      <value>h5</value>
+      <webElementGuid>e0f20859-7a0c-41da-ab23-54df699240ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fs-5 fw-bold</value>
-      <webElementGuid>348e4a01-505b-4de8-abc1-2fde21d13c43</webElementGuid>
+      <value>card-title</value>
+      <webElementGuid>91375f0f-fe42-4686-afdf-4bfcf6d01f5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>TestCase</value>
-      <webElementGuid>2b2e83a2-086f-4932-9521-b930d98c1e8a</webElementGuid>
+      <value>Kacamata_1</value>
+      <webElementGuid>20f19e7c-4de2-40c5-acc4-9783f38838a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;card py-2 px-4 rounded-4 border-4 border-light mt-5 d-flex justify-content-between&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;py-3 ps-4&quot;]/div[@class=&quot;fs-5 fw-bold&quot;]</value>
-      <webElementGuid>a0420eb6-8578-4e1c-9af4-89b8b5426fd0</webElementGuid>
+      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row my-5&quot;]/div[@class=&quot;col-12 col-lg-9 mt-5 mt-lg-0&quot;]/div[@class=&quot;row g-4&quot;]/div[@class=&quot;col-12 col-lg-4&quot;]/a[@class=&quot;product-card&quot;]/div[@class=&quot;card px-0 border-0 shadow h-100 pb-4 rounded-4&quot;]/div[@class=&quot;card-body text-decoration-none&quot;]/h5[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>576972e8-a32c-4f7c-9a84-11a671b20461</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Jual Saya'])[1]/following::div[4]</value>
-      <webElementGuid>14d421ff-af8f-4af8-9daa-a6ece77bf7eb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Produk'])[1]/following::h5[1]</value>
+      <webElementGuid>75332d21-0356-4ab9-aeef-aec0b8083e95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jakarta'])[2]/preceding::div[1]</value>
-      <webElementGuid>306a2ed0-33c0-4843-b382-a134b2c30093</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terjual'])[1]/following::h5[2]</value>
+      <webElementGuid>cd92a9c7-05e6-4513-8566-c4fdf6d2e793</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::div[2]</value>
-      <webElementGuid>5d0ba15a-c2b4-4e87-81a3-e18314542d6a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 950.000'])[1]/preceding::h5[1]</value>
+      <webElementGuid>22474ce2-c1b9-4c1d-bf72-337a9eafec86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div</value>
-      <webElementGuid>34cc072e-223b-4236-a5ea-e523afd54603</webElementGuid>
+      <value>//a/div/div/h5</value>
+      <webElementGuid>f299fc4a-c718-4569-ad28-4f55140250bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'TestCase' or . = 'TestCase')]</value>
-      <webElementGuid>d4868b27-9386-4a57-be50-dbdfa3578158</webElementGuid>
+      <value>//h5[(text() = 'Kacamata_1' or . = 'Kacamata_1')]</value>
+      <webElementGuid>8dc7b3d0-aeb6-41df-9588-5a72ce165607</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Kacamata_1 Baju Rp 950.000</name>
+   <name>KotaUser</name>
    <tag></tag>
-   <elementGuidId>9773961e-0ee2-4874-8ac5-23309122153c</elementGuidId>
+   <elementGuidId>c005eaab-e482-431c-b157-8960eb63a31c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Produk'])[1]/following::div[3]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='TestCase'])[2]/following::div[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.card-body.text-decoration-none</value>
+         <value>div.card.py-2.px-4.rounded-4.shadow.border-0.mt-5 > div.d-flex.align-items-center > div.card-body > div.fs-6.text-black-50</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Kacamata_1 Baju Rp 950.000&quot;i]</value>
+         <value>internal:text=&quot;Jakarta&quot;i >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,74 +29,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0deee47b-a728-4c1a-8251-c008efedebea</webElementGuid>
+      <webElementGuid>4c3c9ccf-d0bb-4331-a2a0-528c14c0f61d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>card-body text-decoration-none</value>
-      <webElementGuid>e7af7cf2-da27-482b-a04f-e7b86039b411</webElementGuid>
+      <value>fs-6 text-black-50</value>
+      <webElementGuid>b5283053-05ff-4dc7-aa67-dafc6c8e1e1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-      Kacamata_1
-      Baju
-      Rp 950.000
-    </value>
-      <webElementGuid>cd2f435c-b5a3-491d-b725-506ed0b4a6b7</webElementGuid>
+      <value>Jakarta</value>
+      <webElementGuid>a754ffb3-81e4-4617-b47d-a46a7ae6e1cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row my-5&quot;]/div[@class=&quot;col-12 col-lg-9 mt-5 mt-lg-0&quot;]/div[@class=&quot;row g-4&quot;]/div[@class=&quot;col-12 col-lg-4&quot;]/a[@class=&quot;product-card&quot;]/div[@class=&quot;card px-0 border-0 shadow h-100 pb-4 rounded-4&quot;]/div[@class=&quot;card-body text-decoration-none&quot;]</value>
-      <webElementGuid>d4089ffb-a91d-46f2-8fe8-d073198c7cc5</webElementGuid>
+      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container my-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-4&quot;]/div[@class=&quot;card py-2 px-4 rounded-4 shadow border-0 mt-5&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;fs-6 text-black-50&quot;]</value>
+      <webElementGuid>64095108-4720-4aac-bd8c-4ef417893b35</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Produk'])[1]/following::div[3]</value>
-      <webElementGuid>02ce3993-e0e9-4020-9572-23d3dacfa8c0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestCase'])[2]/following::div[1]</value>
+      <webElementGuid>b91579ae-7094-43af-a39d-752b9b3df8f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terjual'])[1]/following::div[7]</value>
-      <webElementGuid>9423246c-2b88-408e-907a-f58d35c637ce</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::div[5]</value>
+      <webElementGuid>fe8d888a-fe8f-4ebc-bbf4-aa5dd07cfb3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/a/div/div</value>
-      <webElementGuid>1c63e14a-3c40-4b9b-b128-42d605606d13</webElementGuid>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>c631bd7d-effd-4f10-8597-cad448b120b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '
-      Kacamata_1
-      Baju
-      Rp 950.000
-    ' or . = '
-      Kacamata_1
-      Baju
-      Rp 950.000
-    ')]</value>
-      <webElementGuid>97f91313-d77b-4e6a-8f6b-486cedb7a095</webElementGuid>
+      <value>//div[(text() = 'Jakarta' or . = 'Jakarta')]</value>
+      <webElementGuid>f35e1ab4-e198-4545-a02d-ba2c931e88aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

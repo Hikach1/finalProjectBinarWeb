@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Produk Saya_bi bi-list-ul me-4 me-lg-0</name>
+   <name>DaftarJualSaya</name>
    <tag></tag>
-   <elementGuidId>ce9ae837-ca65-421d-b44b-6e5208d2ed69</elementGuidId>
+   <elementGuidId>fe76b61f-8a59-4b4e-824d-9ca4e1778c17</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>9dee2ea0-3272-4136-9e63-590cd82c7234</webElementGuid>
+      <webElementGuid>50a24815-b2af-4cdb-8fc8-8d0455b596d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bi bi-list-ul me-4 me-lg-0</value>
-      <webElementGuid>a758b35e-04c9-462d-ae1c-22a2469a3a54</webElementGuid>
+      <webElementGuid>071fac73-dfef-49a0-a079-d50458917572</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item me-0 me-lg-2 fs-5&quot;]/a[@class=&quot;nav-link d-flex align-items-center&quot;]/i[@class=&quot;bi bi-list-ul me-4 me-lg-0&quot;]</value>
-      <webElementGuid>b37849fa-1dc8-4e18-8c2e-381e51626dce</webElementGuid>
+      <webElementGuid>9fb9aade-6bec-45f1-8160-1b0431b15ff0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/div/ul/li/a/i</value>
-      <webElementGuid>b82941be-49d2-460d-8ede-33e4673cc7a9</webElementGuid>
+      <webElementGuid>bf5e81de-4c4d-4b80-bac0-fef4b3a6e437</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/i</value>
-      <webElementGuid>a7b420a3-333c-4ff0-8890-d761dce66793</webElementGuid>
+      <webElementGuid>7eb1c1cc-3091-45fb-9623-386f18166259</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

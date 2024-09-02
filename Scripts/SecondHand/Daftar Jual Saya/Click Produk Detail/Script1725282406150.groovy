@@ -17,15 +17,4 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://secondhand.binaracademy.org/')
-
-WebUI.click(findTestObject('Object Repository/Daftar Jual Saya/Login_DaftarJualSaya/a_Masuk'))
-
-WebUI.setText(findTestObject('Object Repository/Daftar Jual Saya/Login_DaftarJualSaya/input_Email_useremail'), 'telowed836@apifan.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Daftar Jual Saya/Login_DaftarJualSaya/input_Password_userpassword'),
-	'2P3xME+nVvAYSCiv6pZdSw==')
-
-WebUI.click(findTestObject('Object Repository/Daftar Jual Saya/Login_DaftarJualSaya/input_Password_commit'))
+WebUI.click(findTestObject('Daftar Jual Saya/ContohProduk'))

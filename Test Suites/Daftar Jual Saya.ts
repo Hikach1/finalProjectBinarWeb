@@ -18,4 +18,11 @@
       <testCaseId>Test Cases/Step Definition/Daftar Jual Saya/TC.DJS.001 - As a registered user, I can access Daftar Jual Saya</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>a2d3b213-855e-43e6-936b-25d240a68b56</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Step Definition/Daftar Jual Saya/TC.DJS.002 As a User, I can view Details of a Listed Product</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
