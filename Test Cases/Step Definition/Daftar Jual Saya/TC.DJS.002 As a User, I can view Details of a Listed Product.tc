@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User bisa view salah satu product yang ada di dalam List Daftar Jual Saya</description>
+   <name>TC.DJS.002 As a User, I can view Details of a Listed Product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1198207c-0ffd-4d5b-a3d1-a750a1d0943b</testCaseGuid>
+</TestCaseEntity>
