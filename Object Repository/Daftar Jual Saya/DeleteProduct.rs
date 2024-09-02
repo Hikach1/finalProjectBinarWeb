@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Produk Saya_bi bi-list-ul me-4 me-lg-0</name>
+   <name>DeleteProduct</name>
    <tag></tag>
-   <elementGuidId>ce9ae837-ca65-421d-b44b-6e5208d2ed69</elementGuidId>
+   <elementGuidId>7254c7e0-0478-4db8-bcb0-0c9bea0a0b60</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='navbarSupportedContent']/div/ul/li/a/i</value>
+         <key>CSS</key>
+         <value>a.nav-link.dropdown-toggle.d-flex.align-items-center.show > i.bi.bi-person.me-4.me-lg-0</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>i.bi.bi-list-ul.me-4.me-lg-0</value>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ul/li[6]/a/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;&quot;i]</value>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,38 +29,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>9dee2ea0-3272-4136-9e63-590cd82c7234</webElementGuid>
+      <webElementGuid>2a1ecdae-0ac5-42ee-92d4-70e72f5ab0d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>bi bi-list-ul me-4 me-lg-0</value>
-      <webElementGuid>a758b35e-04c9-462d-ae1c-22a2469a3a54</webElementGuid>
+      <value>bi bi-person me-4 me-lg-0</value>
+      <webElementGuid>e8a1684d-645b-4702-a1e9-024e9e962308</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item me-0 me-lg-2 fs-5&quot;]/a[@class=&quot;nav-link d-flex align-items-center&quot;]/i[@class=&quot;bi bi-list-ul me-4 me-lg-0&quot;]</value>
-      <webElementGuid>b37849fa-1dc8-4e18-8c2e-381e51626dce</webElementGuid>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown fs-5 d-none d-lg-block&quot;]/a[@class=&quot;nav-link dropdown-toggle d-flex align-items-center show&quot;]/i[@class=&quot;bi bi-person me-4 me-lg-0&quot;]</value>
+      <webElementGuid>5612d8ca-affa-4488-94ce-d4fc3010274a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='navbarSupportedContent']/div/ul/li/a/i</value>
-      <webElementGuid>b82941be-49d2-460d-8ede-33e4673cc7a9</webElementGuid>
+      <value>//div[@id='navbarSupportedContent']/div/ul/li[6]/a/i</value>
+      <webElementGuid>0b143563-a17d-48f0-8d6f-12266531b5f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a/i</value>
-      <webElementGuid>a7b420a3-333c-4ff0-8890-d761dce66793</webElementGuid>
+      <value>//li[6]/a/i</value>
+      <webElementGuid>79d2d110-588b-4d21-9804-fc1473a5ef90</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

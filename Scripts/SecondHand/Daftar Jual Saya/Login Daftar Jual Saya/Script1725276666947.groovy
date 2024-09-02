@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://secondhand.binaracademy.org/')
 
-WebUI.click(findTestObject('Object Repository/Daftar Jual Saya/Page_SecondHand/a_Masuk'))
+WebUI.click(findTestObject('Object Repository/Daftar Jual Saya/Login_DaftarJual/a_Masuk'))
 
-WebUI.setText(findTestObject('Object Repository/Daftar Jual Saya/Page_SecondHand/input_Email_useremail'), 'telowed836@apifan.com')
+WebUI.setText(findTestObject('Object Repository/Daftar Jual Saya/Login_DaftarJual/input_Email_useremail'), 'telowed836@apifan.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Daftar Jual Saya/Page_SecondHand/input_Password_userpassword'),
+WebUI.setEncryptedText(findTestObject('Object Repository/Daftar Jual Saya/Login_DaftarJual/input_Password_userpassword'),
 	'2P3xME+nVvAYSCiv6pZdSw==')
 
-WebUI.click(findTestObject('Object Repository/Daftar Jual Saya/Page_SecondHand/input_Password_commit'))
+WebUI.click(findTestObject('Object Repository/Daftar Jual Saya/Login_DaftarJual/input_Password_commit'))

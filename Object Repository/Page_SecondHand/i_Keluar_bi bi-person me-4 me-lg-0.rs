@@ -3,7 +3,7 @@
    <description></description>
    <name>i_Keluar_bi bi-person me-4 me-lg-0</name>
    <tag></tag>
-   <elementGuidId>b9258183-3cab-4d37-84a7-80aaf20ecdef</elementGuidId>
+   <elementGuidId>d01b2e45-48f6-4432-b26a-0796c08493e9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>6d18cecb-7720-4bfd-b584-a23044473aba</webElementGuid>
+      <webElementGuid>36ebd80c-3404-43b5-9fbd-65b501738a5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bi bi-person me-4 me-lg-0</value>
-      <webElementGuid>f3f5ce4f-3188-436a-8d68-eb006c8d5ed4</webElementGuid>
+      <webElementGuid>5714648c-169d-4f0f-88ce-5a4e4c7d3282</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown fs-5 d-none d-lg-block&quot;]/a[@class=&quot;nav-link dropdown-toggle d-flex align-items-center show&quot;]/i[@class=&quot;bi bi-person me-4 me-lg-0&quot;]</value>
-      <webElementGuid>a21b336f-f0fa-477e-b1e5-954ae2dcddfc</webElementGuid>
+      <webElementGuid>d0d5030f-e5f7-48f9-9fe0-6eeb7df5658f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/div/ul/li[6]/a/i</value>
-      <webElementGuid>0dbb6bd0-cb1e-4f10-baf1-8d79d9d1752f</webElementGuid>
+      <webElementGuid>f46a9106-f837-4f2d-ba31-282d4f0b6a5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a/i</value>
-      <webElementGuid>2f850e8c-e1a7-4a86-98ff-0cd9ab14e847</webElementGuid>
+      <webElementGuid>4b5b6a5e-c4ef-40f4-b315-f7860d0fa3fc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

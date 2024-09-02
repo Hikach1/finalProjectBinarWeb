@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Masuk</name>
+   <name>CategoryProduct</name>
    <tag></tag>
-   <elementGuidId>8bf250af-a371-41d2-9cdf-aef15cec2788</elementGuidId>
+   <elementGuidId>ce7cbc41-d76f-4108-9a26-abd0325d1fcb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.btn.btn-primary</value>
+         <value>div.card.p-2.rounded-4.shadow.border-0 > div.card-body > p.card-text.text-black-50.fs-6</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbarSupportedContent']/div/a</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kacamata_1'])[1]/following::p[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Masuk&quot;i]</value>
+         <value>internal:text=&quot;Baju&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,104 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>6f4ccce0-b088-49a1-ac68-f720f9a57282</webElementGuid>
+      <value>p</value>
+      <webElementGuid>28d073a3-3cdd-4f98-8461-f3f4e7dd01df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>ab3960d0-5528-4f78-90a2-f9f881ccab9a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/users/sign_in</value>
-      <webElementGuid>19fc63c6-eecf-496e-8dcc-425a42dc374e</webElementGuid>
+      <value>card-text text-black-50 fs-6</value>
+      <webElementGuid>65b6759e-81e1-46fa-bdbd-0fc2894a13a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-  
-  Masuk
-</value>
-      <webElementGuid>fd2c9dcc-f04e-48c7-abbd-a1084c637376</webElementGuid>
+      <value>Baju</value>
+      <webElementGuid>7d07ef6f-1b7d-45ff-96b8-7fef87873b2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>79243eff-e398-452e-9fee-2afeeea393ad</webElementGuid>
+      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container my-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-4&quot;]/div[@class=&quot;card p-2 rounded-4 shadow border-0&quot;]/div[@class=&quot;card-body&quot;]/p[@class=&quot;card-text text-black-50 fs-6&quot;]</value>
+      <webElementGuid>2dd26bcd-5557-40a8-92de-fda46e5a4e6b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//div[@id='navbarSupportedContent']/div/a</value>
-      <webElementGuid>241e489b-9710-461e-9b9f-ec5b0fa8a01e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kacamata_1'])[1]/following::p[1]</value>
+      <webElementGuid>6766ed54-9b3d-461d-8c84-cfb95cd5ccf5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulan RamadhanBanyak diskon!'])[1]/preceding::a[1]</value>
-      <webElementGuid>b345ac54-1945-4459-8963-9385405e4f79</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/following::p[2]</value>
+      <webElementGuid>8cc48d29-4bc1-4f1f-8981-bcac8c2843b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diskon Hingga'])[1]/preceding::a[1]</value>
-      <webElementGuid>5e8a5e56-e1e5-4578-a426-cec897119283</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::p[2]</value>
+      <webElementGuid>fd3e96d5-b00d-4ba7-901a-c2ddc9ddffab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>2c1605d2-7367-4b49-b3ee-627803fcc3d7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::p[2]</value>
+      <webElementGuid>35849bff-bb01-4b4b-a8c2-980ed9ffa94e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/users/sign_in')]</value>
-      <webElementGuid>33359eec-0217-4421-9b0c-c0b752ee0933</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Baju']/parent::*</value>
+      <webElementGuid>f11bdaa3-dbd2-4333-9c34-dd898987b418</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/a</value>
-      <webElementGuid>6c30547f-5674-4ab6-9674-9ed3dd85ffb2</webElementGuid>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>29b40940-d0bf-4978-9609-d88d2a080b90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/users/sign_in' and (text() = '
-  
-  Masuk
-' or . = '
-  
-  Masuk
-')]</value>
-      <webElementGuid>c92403f9-4aa7-47ee-aa68-5db786068f66</webElementGuid>
+      <value>//p[(text() = 'Baju' or . = 'Baju')]</value>
+      <webElementGuid>844c6984-0a90-4630-8874-c9985ab9eee0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

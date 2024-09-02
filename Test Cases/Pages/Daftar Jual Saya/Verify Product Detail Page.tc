@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>test</name>
+   <name>Verify Product Detail Page</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>442c86fb-81c9-4b8e-8d16-ce661ecacf5e</testCaseGuid>
+   <testCaseGuid>5a27cd0f-85a9-4a12-9fb1-be30725c241b</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.DJS.003 - Registered User Deletes a Listed Product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b42d4f96-f3ba-4382-9069-b5f214a2db64</testCaseGuid>
+</TestCaseEntity>

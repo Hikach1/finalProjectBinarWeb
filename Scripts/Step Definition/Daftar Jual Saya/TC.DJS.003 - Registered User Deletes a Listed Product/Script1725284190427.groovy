@@ -17,14 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/DaftarJualSayaText'), 0)
+WebUI.callTestCase(findTestCase('SecondHand/Daftar Jual Saya/Login Daftar Jual Saya'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/ListSemuaProdukButton'), 0)
+WebUI.callTestCase(findTestCase('SecondHand/Daftar Jual Saya/Click Daftar Jual Saya'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/ListProdukDiminatiButton'), 0)
+WebUI.callTestCase(findTestCase('Pages/Daftar Jual Saya/Verify Daftar Jual Saya Page'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/ListProdukTerjualButton'), 0)
+WebUI.click(findTestObject('Object Repository/Daftar Jual Saya/ContohProduk'))
 
-WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/TambahProdukButton'), 0)
+WebUI.callTestCase(findTestCase('SecondHand/Daftar Jual Saya/Click Product Detail'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/EditProfileButton'), 0)
+WebUI.callTestCase(findTestCase('Pages/Daftar Jual Saya/Verify Product Detail Page'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Daftar Jual Saya/Click Delete Product'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Pages/Daftar Jual Saya/Verify Daftar Jual Saya Page'), [:], FailureHandling.STOP_ON_FAILURE)
+
