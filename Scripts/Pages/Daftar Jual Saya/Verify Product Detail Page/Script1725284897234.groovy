@@ -17,14 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/DaftarJualSayaText'), 0)
+WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/CategoryProduct'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/ListSemuaProdukButton'), 0)
+WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/KotaUser'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/ListProdukDiminatiButton'), 0)
+WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/HargaProduk'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/ListProdukTerjualButton'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/TambahProdukButton'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/EditProfileButton'), 0)
+WebUI.verifyElementPresent(findTestObject('Daftar Jual Saya/NamaUser'), 0)
