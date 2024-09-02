@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>View product yang dijual</description>
+   <name>Click Daftar Jual Saya</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35509d8a-be6d-4183-b4c7-6f1114a72d7c</testCaseGuid>
+</TestCaseEntity>

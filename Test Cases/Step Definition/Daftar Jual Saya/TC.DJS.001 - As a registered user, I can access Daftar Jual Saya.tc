@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Runner</name>
+   <name>TC.DJS.001 - As a registered user, I can access Daftar Jual Saya</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>dcadb42b-f0e3-4405-8f03-4aa4ea87535f</testCaseGuid>
+   <testCaseGuid>c32d6d0b-0056-4747-99bc-98b7d79f6d52</testCaseGuid>
 </TestCaseEntity>

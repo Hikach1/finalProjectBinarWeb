@@ -103,7 +103,7 @@ public class AddNewProduct {
 	public void user_input_alphanumeric_description_product() {
 		WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Deskripsi Produk'), [('deskripsiProduk') : 'blabla123'], FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@When("User input alphabet price product")
 	public void user_input_alphabet_price_product() {
 		WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Harga Produk'), [('hargaProduk') : 'abcd'], FailureHandling.STOP_ON_FAILURE)
