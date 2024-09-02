@@ -25,7 +25,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(
 features = "Include/features",
 glue = "stepDefinition",
-tags = "@Register, @Login, @AddNewProduct, @ProductOffer, @Profile, @Notification ",
+tags = "@Register",
 monochrome = true,
 plugin = "html:Reports/Cucumber"
 )

@@ -69,7 +69,7 @@ class notificationWeb {
 
 		WebUI.callTestCase(findTestCase('Step Definition/Login/User Login - Success_TestNotif'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@Given("User as A seller success login again")
 	public void user_as_a_seller_success_login_again() {
 
@@ -90,7 +90,7 @@ class notificationWeb {
 
 		WebUI.callTestCase(findTestCase('Pages/Notifications/Click Notif Button'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@And("User as A seller click notif button to clear redmark")
 	public void user_as_A_seller_click_notif_button_to_clear_redmark() {
 
@@ -108,7 +108,6 @@ class notificationWeb {
 	public void user_as_A_seller_verify_product_successfully_published() {
 
 		WebUI.callTestCase(findTestCase('Pages/Notifications/Verify Product Published'), [:], FailureHandling.STOP_ON_FAILURE)
-		
 	}
 
 	@And("User as A seller verify product description")
@@ -141,7 +140,7 @@ class notificationWeb {
 
 		WebUI.callTestCase(findTestCase('Step Definition/Login/User Login - Success_TestNotifOffer'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@Given("User as A buyer success login again")
 	public void user_as_A_buyer_success_login_again() {
 
@@ -165,7 +164,7 @@ class notificationWeb {
 
 		WebUI.callTestCase(findTestCase('Pages/Search Page/Offer Product'), [('offerProduct') : '20000'], FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@And("User as A buyer logout")
 	public void user_as_A_buyer_logout() {
 
@@ -177,7 +176,7 @@ class notificationWeb {
 
 		WebUI.callTestCase(findTestCase('Pages/Logout/Logout From Offer Product Page'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@Then("User as A seller verify new product offer notification")
 	public void user_as_A_seller_verify_new_product_offer_notification() {
 
@@ -199,7 +198,7 @@ class notificationWeb {
 
 		WebUI.callTestCase(findTestCase('Pages/Notifications/Click Notif Button'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@When("User click notif button")
 	public void user_click_notif_button() {
 
@@ -224,7 +223,7 @@ class notificationWeb {
 
 		WebUI.scrollToElement(findTestObject('Notifications/buttonOpenListNotification'), 0)
 	}
-	
+
 	@And("User as A seller scroll down to list notification button")
 	public void user_as_a_seller_scroll_down_to_list_notification_button() {
 
@@ -237,7 +236,7 @@ class notificationWeb {
 		WebUI.click(findTestObject('Notifications/buttonOpenListNotification'))
 		WebUI.delay(3)
 	}
-	
+
 	@And("User as A seller click list notification button")
 	public void user_a_seller_click_list_notification_button() {
 
@@ -257,7 +256,7 @@ class notificationWeb {
 		WebUI.click(findTestObject('Notifications/elementLattestProductOffer'))
 		WebUI.delay(3)
 	}
-	
+
 	@When("User as A seller click Product Offer In List Notification Page")
 	public void user_as_a_seller_click_Product_Offer_In_List_Notification_Page() {
 
@@ -311,7 +310,7 @@ class notificationWeb {
 		WebUI.scrollToElement(findTestObject('Notifications/textLattestStatusDiterima'), 0)
 		WebUI.click(findTestObject('Notifications/buttonStatusLattest'))
 	}
-	
+
 	@Then("Verify user navigate to whatsapp")
 	public void verify_user_navigate_to_whatsapp() {
 
@@ -340,7 +339,7 @@ class notificationWeb {
 
 		WebUI.click(findTestObject('Notifications/radioButtonOfferStatusCanceled'))
 	}
-	
+
 	@When("Click radio button Berhasil terjual")
 	public void click_radio_button_Berhasil_terjual() {
 
